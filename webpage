@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 20px 10%;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #007BFF;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #007BFF;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #f4f4f9;
+            color: #666;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Seasoned cloud data professional with a finance background. A non-profit co-founder.</p>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#contact">Contact</a>
+        <a href="#blog">Blog</a>
+        <a href="#inquiries">Inquiries</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Seasoned cloud data professional with a finance background. A non-profit co-founder.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Phone: 614-364-6359</p>
+    </section>
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Coming soon...</p>
+    </section>
+    <section id="inquiries">
+        <h2>Inquiries</h2>
+        <p>For inquiries, please reach out via the contact information provided.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
